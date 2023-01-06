@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/drawable/ic_menu_folder_selected.xml" value="0.1615" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/drawable/ic_menu_folder_unselected.xml" value="0.1615" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/drawable/ic_menu_home_selected.xml" value="0.1615" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/drawable/ic_menu_search_selected.xml" value="0.1615" />
         <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/layout/fragment_folder.xml" value="0.2390625" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/layout/fragment_search.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/layout/fragment_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/menu/bottom_navi_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/menu/bottom_navi_menu_unselect.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/menu/main_menu_bottom.xml" value="0.25364583333333335" />
+        <entry key="..\:/android/pedal_sports_app_ver.2/app/src/main/res/menu/menu_selector_color.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
