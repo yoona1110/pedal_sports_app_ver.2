@@ -10,6 +10,7 @@ import android.view.MenuItem;
 import com.pedal.pedal_sports_app_ver2.databinding.ActivityMainBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+//
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding viewBinding; // view binding
 
