@@ -1,4 +1,4 @@
-package com.bicontest.pedal_sports_app_ver2;
+package com.pedal.pedal_sports_app_ver2;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.bicontest.pedal_sports_app_ver2.databinding.ActivityMainBinding;
+import com.pedal.pedal_sports_app_ver2.databinding.ActivityMainBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
