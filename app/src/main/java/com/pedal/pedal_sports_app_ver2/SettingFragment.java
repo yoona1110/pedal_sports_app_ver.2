@@ -1,4 +1,4 @@
-package com.bicontest.pedal_sports_app_ver2;
+package com.pedal.pedal_sports_app_ver2;
 
 import android.os.Bundle;
 
